@@ -1,1 +1,13 @@
-h1{color: red;}
+body{
+    background-color: aquamarine;
+    text-align: center;
+    font-family: Arial, sans-serif;}
+
+span{font-size: 3em;}
+
+button{
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    background-color: gray;
+    font-size: 2em;}
